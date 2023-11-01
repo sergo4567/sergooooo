@@ -1,0 +1,48 @@
+
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #200772;
+    color: white;
+}
+
+.gallery{
+    background-color: darkblue;
+    color: deepskyblue;
+}
+
+ul {
+    font-size: 20px;
+    background-color: blueviolet;
+    color: cornsilk;
+}
+
+footer {
+    background-color: orange;
+    padding: 20px;
+    border-top: 5px dashed orange;
+    border-right: 5px dashed 
+
+
+}
+
+footer img {
+    width: 60px;
+}
+
+h2 {
+    background-color: aqua;
+}
+
+p img{
+    background-color: deepskyblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 10px;
+    } 
